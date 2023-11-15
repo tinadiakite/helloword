@@ -9,7 +9,7 @@ class CardItem extends StatelessWidget {
     return SizedBox(
       height: 60,
        child: Center(
-        child: Image.asset('R.jpg'),
+        child: Image.asset('assets/images/R.jpg'),
        ),
     );
   }
